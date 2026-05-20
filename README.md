@@ -70,7 +70,7 @@ Plots attrition count against employee age from 18 to 60. The chart peaks sharpl
 
 ---
 
-**3. Donut Chart — Department Wise Attrition**
+**3. Pie Chart — Department Wise Attrition**
 
 | Department | Attrition Count | Share |
 |---|---|---|
@@ -117,7 +117,7 @@ Research Scientists lean toward rating 4. Sales Executives have the highest coun
 
 ---
 
-**6. Funnel Chart — Attrition by Education Field**
+**6. Line Chart — Attrition by Education Field**
 Shows which education backgrounds have the most attrition.
 
 - Life Sciences — highest
