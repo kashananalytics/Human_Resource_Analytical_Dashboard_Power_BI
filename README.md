@@ -9,7 +9,8 @@ An interactive Power BI Dashboard Project focused on Employee Attrition, Workfor
 
 ## 📸 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
+![Dashboard Preview](dashboard.png)
+
 
 ---
 
