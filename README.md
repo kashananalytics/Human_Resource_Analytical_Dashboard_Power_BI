@@ -186,3 +186,7 @@ Average Age = AVERAGE('HR Data'[Age])
 ---
 
 *Feel free to fork this or adapt the DAX measures for your own HR or people analytics projects.*
+
+## Author
+Kashan Ahmed  
+BS Statistics Graduate | Power BI & Data Analytics.
