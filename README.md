@@ -2,7 +2,7 @@
 Human Resource Analytical Dashboard Power BI
 An interactive Power BI Dashboard Project focused on Employee Attrition, Workforce demographics, Job Satisfaction and HR performance analysis. The dashboard provides meaningful insights using KPIs, Charts, Slicers, and DAX measures to support data-driven HR decisions.
 <br>
-# 👥 Human Resource Analytics Dashboard — Power BI
+👥 Human Resource Analytics Dashboard — Power BI
 
 > Built to answer the question every HR team needs to face: who is leaving, why are they leaving, and what does the data actually say about it?
 
