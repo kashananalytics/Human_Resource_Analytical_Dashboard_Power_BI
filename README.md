@@ -1,5 +1,5 @@
 <img width="624" height="352" alt="HR Analytics Dasboard 1" src="https://github.com/user-attachments/assets/6da01e03-89f8-4c33-935a-44337cba357f" />
-# Human_Resource_Analytical_Dashboard_Power_BI
+Human_Resource_Analytical_Dashboard_Power_BI
 An interactive Power BI Dashboard Project focused on Employee Attrition, Workforce demographics, Job Satisfaction and HR performance analysis. The dashboard provides meaningful insights using KPIs, Charts, Slicers, and DAX measures to support data-driven HR decisions.
 <br>
 # 👥 Human Resource Analytics Dashboard — Power BI
